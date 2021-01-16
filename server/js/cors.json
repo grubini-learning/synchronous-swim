@@ -1,0 +1,6 @@
+{
+  "Access-Control-Allow-Origin": "*",
+  "Access-Control-Allow-Methods": "GET, POST, PUT, DELETE, OPTIONS",
+  "Access-Control-Allow-Headers": "content-type, accept",
+  "Access-Control-Max-Age": 10
+}
